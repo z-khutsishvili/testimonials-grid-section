@@ -4,7 +4,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-ZHIEJ2UL3U](https://www.frontendmentor.io/solutions/testimonials-grid-section-ZHIEJ2UL3U)
 - Live Site URL: [https://z-khutsishvili.github.io/testimonials-grid-section/](https://z-khutsishvili.github.io/testimonials-grid-section/)
 
 ## Built with
