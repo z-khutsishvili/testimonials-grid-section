@@ -5,7 +5,7 @@
     --very-dark-blackish-blue: hsl(219, 29%, 14%);
     --white: hsl(0, 0%, 100%);
     --light-gray: hsl(0, 0%, 81%);
-    --light-grayish-blue: hsl(210, 46%, 95%);
+    --beige: hsl(0, 0%, 96%);
 }
 
 *, *::before, *::after {
@@ -24,7 +24,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--light-grayish-blue);
+    background-color: var(--beige);
     font-family: 'Barlow Semi Condensed', sans-serif;
     position: relative;
 }
